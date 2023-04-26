@@ -3,3 +3,4 @@
 <p float = "left">
 <img width="200"alt="App portrait Image"src="https://github.com/codception/crypto-tracker-retrofit/blob/master/img/app.gif" >
 </p>
+<h5>Supported by GunseliUnsal 💟</h5>
